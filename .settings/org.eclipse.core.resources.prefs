@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/org/o7planning/simplewebapp/conn/ConnectionUtils.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/conn/MySQLConnUtils.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/conn/OracleConnUtils.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/conn/SQLServerConnUtils_JTDS.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/conn/SQLServerConnUtils_SQLJDBC.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/filter/CookieFilter.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/filter/JDBCFilter.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/servlet/HomeServlet.java=UTF-8
+encoding//src/org/o7planning/simplewebapp/utils/MyUtils.java=UTF-8
